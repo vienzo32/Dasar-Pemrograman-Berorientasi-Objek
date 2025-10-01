@@ -1,0 +1,3 @@
+interface Scanner {
+    void scanDokumen();
+}
